@@ -3,7 +3,7 @@ import json
 def handler(event, context):
   print('received event:')
   print(event)
-  print("hello world")
+  print("hello world2")
   
   return {
       'statusCode': 200,
