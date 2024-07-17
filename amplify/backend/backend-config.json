@@ -1,5 +1,10 @@
 {
   "function": {
+    "func5": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
     "testFunc2": {
       "build": true,
       "providerPlugin": "awscloudformation",
