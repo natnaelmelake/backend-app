@@ -15,9 +15,12 @@
       "function": {
         "testFunc2": {
           "deploymentBucketName": "amplify-backendapp-dev-be7b5-deployment",
-          "s3Key": "amplify-builds/testFunc2-75475057455a6439624b-build.zip"
+          "s3Key": "amplify-builds/testFunc2-75764e542f4a5745592b-build.zip"
         },
-        "func5": {}
+        "func5": {
+          "deploymentBucketName": "amplify-backendapp-dev-be7b5-deployment",
+          "s3Key": "amplify-builds/func5-33364a3655455767514a-build.zip"
+        }
       }
     }
   }

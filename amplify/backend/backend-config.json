@@ -12,6 +12,22 @@
     }
   },
   "parameters": {
+    "AMPLIFY_function_func5_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "func5"
+        }
+      ]
+    },
+    "AMPLIFY_function_func5_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "func5"
+        }
+      ]
+    },
     "AMPLIFY_function_testFunc2_deploymentBucketName": {
       "usedBy": [
         {
